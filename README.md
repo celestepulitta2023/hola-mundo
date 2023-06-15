@@ -2,7 +2,7 @@
 
 mi primer repositorio en github
 
-I love :book:, 🌃, :dog:
+I love :book:, :dancer:, :dog:
 
 I love :baby:, :coffee:
 
