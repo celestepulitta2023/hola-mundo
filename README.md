@@ -2,12 +2,12 @@
 
 mi primer repositorio en github
 
-I love :read:, :gym:, :dog:
+I love :book:, 🌃, :dog:
 
-I love :baby:, :stroll:, :night:
+I love :baby:, :coffee:
 
-mi ultima linea en mi repositorio
+mi ultima linea en mi repositorio 
 
-nueva actividad
+nueva actividad 
 
 finalizando con github
